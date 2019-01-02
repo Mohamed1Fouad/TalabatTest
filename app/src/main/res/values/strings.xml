@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TalabatTest</string>
+    <string name="mobile_text_hint">Mobile number</string>
+    <string name="pass_text_hint">Password</string>
+    <string name="login__text_btn">Login</string>
+    <string name="empty_mobile">Enter mobile number</string>
+    <string name="empty_password">Enter password</string>
+    <string name="no_internet_connection">No internet connectivity Please Try Again</string>
+    <string name="no_google_serivce">please download google play service to use this app</string>
+    <string name="access_key">Gdka52DASWE3DSasWE742Wq</string>
+    <string name="access_password">yH52dDDF85sddEWqPNV7D12sW5e</string>
+    <string name="no_restaurants">No restaurants found</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="google_maps_key">AIzaSyDVEpSJMZgmdXHzHHbZ4nhtGBr5hYo4iAw</string>
+    <string name="order_details">Details</string>
+    <string name="order_direction">Directions</string>
+    <string name="order_delete">Finish</string>
+    <string name="error_location">Cannot fetch current location!</string>
+    <string name="order_finished">%1$s order finished!</string>
+    <string name="order_details_user">User Name:</string>
+    <string name="order_details_restaurant">Restaurant:</string>
+    <string name="order_details_price">Total price:</string>
+    <string name="order_name">Name:</string>
+    <string name="order_quantity">Quantity:</string>
+    <string name="order_price">Price:</string>
+    <string name="order_price_Egp">%1$.2f EGP</string>
+
+
+
+
+</resources>
