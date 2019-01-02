@@ -40,7 +40,7 @@ public class LoginPresenter implements LoginPresenterListener {
             public void onError(@NonNull Throwable e) {
                 e.printStackTrace();
                 view.hideProgressBar();
-                view.displayError("Error in Login");
+                view.displayError("Wrong mobile or password");
             }
 
             @Override
